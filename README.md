@@ -1,1 +1,2 @@
-Jintao Hu 12374471
+Jintao Hu
+UChicago CS Git Tutorial
